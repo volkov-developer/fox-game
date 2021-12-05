@@ -1,7 +1,7 @@
 {
   "extends": [
-    "eslint: recommended",
-    "plugin: import/errors",
+    "eslint:recommended",
+    "plugin:import/errors",
     "prettier"
   ],
   "rules": {
